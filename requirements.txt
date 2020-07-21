@@ -1,0 +1,7 @@
+numpy
+toolz
+requests
+xmltodict
+jupyterlab
+pandas
+schema
