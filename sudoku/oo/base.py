@@ -8,7 +8,7 @@ import numpy as np
 @dataclass
 class Square:
     """
-    Represents a single-digit square on the Sodoku field
+    Represents a single-digit square on the Sudoku field
     """
     y: int
     x: int
