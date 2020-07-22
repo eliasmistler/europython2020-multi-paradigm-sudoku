@@ -1,6 +1,7 @@
-# EuroPython 2020 - Multi-paradigm programming
+# Multi-paradigm programming
+Talk and code examples for EuroPython 2020, using Sudoku as an example.
 
-## Talk Synopsis
+## Synopsis
 Python is a powerful multi-paradigm language which combines elements of object-orientation and functional programming. Both concepts can be really powerful if used right. But what if you use them together? It can be pragmatic and very efficient, but things can also get messy really quickly.
 
 This talk explores peaceful co-existence of oo-classes and pure functions in the same code base. The focus is on identifying the right tool for the right job and bringing together the best of both. The main topics are:
@@ -10,8 +11,9 @@ This talk explores peaceful co-existence of oo-classes and pure functions in the
 * State Handling
 * Multiple implementations
 
-[Talk in EuroPython schedule](https://ep2020.europython.eu/talks/83SnxW9-how-to-write-multi-paradigm-code/)
-
+## Links
+* [Talk in EuroPython schedule](https://ep2020.europython.eu/talks/83SnxW9-how-to-write-multi-paradigm-code/)
+* [PDF Slides](./multi-paradigm%20slides.pdf)
 
 ## Run and explore
 
