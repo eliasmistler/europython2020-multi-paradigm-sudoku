@@ -12,6 +12,7 @@ This talk explores peaceful co-existence of oo-classes and pure functions in the
 * Multiple implementations
 
 ## Links
+* [Talk Recording](https://youtu.be/RVK7rsFEfpc?t=8408)
 * [Main talk notbook](./multi-paradigm%20slides.ipynb)
 * [Lightning talk notebook](./no-comments.ipynb)
 * [Talk in EuroPython schedule](https://ep2020.europython.eu/talks/83SnxW9-how-to-write-multi-paradigm-code/)
